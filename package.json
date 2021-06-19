@@ -1,0 +1,25 @@
+{
+  "name": "nodeStudy",
+  "version": "1.0.0",
+  "description": "&emsp;&emsp;学习Node.js时的一些代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huiboxes/nodeStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huiboxes/nodeStudy/issues"
+  },
+  "homepage": "https://github.com/huiboxes/nodeStudy#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mime": "^2.5.2"
+  }
+}
