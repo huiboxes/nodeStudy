@@ -1,27 +1,33 @@
-const handleBlogRouter = ({ method, url }, res) => {
-  const path = url.split('?')[0]
+const { getList } = require('../controller/blog')
+const { SuccessModel, ErrorModel } = require('../model/resModel')
 
-  if (method === 'GET' && path === '/api/blog/list') {
-    return {
-      msg: '获取博客列表',
-    }
+const handleBlogRouter = (req, res) => {
+  const method = req.method
+
+  if (method === 'GET' && req.path === '/api/blog/list') {
+    const author = req.query.author || ''
+    const keyword = req.query.keyword || ''
+    const listData = getList(author, keyword)
+    
+    return new SuccessModel(listData)
   }
-  if (method === 'GET' && path === '/api/blog/detail') {
+
+  if (method === 'GET' && req.path === '/api/blog/detail') {
     return {
       msg: '获取博客详情',
     }
   }
-  if (method === 'POST' && path === '/api/blog/new') {
+  if (method === 'POST' && req.path === '/api/blog/new') {
     return {
       msg: '新建博客',
     }
   }
-  if (method === 'PUT' && path === '/api/blog/update') {
+  if (method === 'PUT' && req.path === '/api/blog/update') {
     return {
       msg: '更新博客',
     }
   }
-  if (method === 'DELETE' && path === '/api/blog/del') {
+  if (method === 'DELETE' && req.path === '/api/blog/del') {
     return {
       msg: '删除博客',
     }
