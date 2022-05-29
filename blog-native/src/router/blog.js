@@ -3,6 +3,7 @@ const {
   getDetial,
   newBlog,
   updateBlog,
+  delBlog,
 } = require('../controller/blog')
 const { SuccessModel, ErrorModel } = require('../model/resModel')
 
@@ -38,8 +39,11 @@ const handleBlogRouter = (req, res) => {
     }
   }
   if (method === 'POST' && req.path === '/api/blog/del') {
-    return {
-      msg: '删除博客',
+    const result = delBlog(id)
+    if (result) {
+      return new SuccessModel()
+    } else {
+      return new ErrorModel('删除失败')
     }
   }
 }
