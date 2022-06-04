@@ -14,20 +14,24 @@ const handleBlogRouter = (req, res) => {
   if (method === 'GET' && req.path === '/api/blog/list') {
     const author = req.query.author || ''
     const keyword = req.query.keyword || ''
-    const listData = getList(author, keyword)
-
-    return new SuccessModel(listData)
+    const result = getList(author, keyword)
+    return result.then((listData) => {
+      return new SuccessModel(listData)
+    })
   }
 
   if (method === 'GET' && req.path === '/api/blog/detail') {
-    const data = getDetial(id)
-    return new SuccessModel(data)
+    const result = getDetial(id)
+    return result.then((data) => {
+      return new SuccessModel(data)
+    })
   }
   if (method === 'POST' && req.path === '/api/blog/new') {
-    const data = newBlog(req.body)
-    return {
-      msg: '新建博客',
-    }
+    req.body.author = 'zhangsan'
+    const result = newBlog(req.body)
+    return result.then((data) => {
+      return new SuccessModel(data)
+    })
   }
   if (method === 'POST' && req.path === '/api/blog/update') {
     const result = updateBlog(id, req.body)
