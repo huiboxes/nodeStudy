@@ -1,29 +1,49 @@
 const redis = require('redis')
 const { REDIS_CONF } = require('../conf/db')
 
-async function redisFactory() {
-  const redisClient = redis.createClient(REDIS_CONF)
-  redisClient.on('error', (err) => {
-    console.log(err)
-  })
-  await redisClient.connect()
+class Redis {
+  constructor() {
+    this.client = redis.createClient(REDIS_CONF)
+    this.client.on('error', (err) => {
+      console.log(err)
+    })
+    this.connect()
+  }
 
-  return {
-    async set(key, val) {
-      if (typeof val === 'object') {
-        val = JSON.stringify(val)
-      }
-      await redisClient.set(key, val)
-    },
-    async get(key) {
-      const value = await redisClient.get(key)
+  async connect() {
+    await this.client.connect()
+  }
+  quit() {
+    this.client.quit()
+  }
+
+  async set(key, value, time) {
+    if (typeof value === 'object') {
+      value = JSON.stringify(value)
+    }
+
+    time
+      ? await this.client.set(key, value, {
+          EX: time,
+          NX: true,
+        })
+      : await this.client.set(key, value)
+  }
+
+  async get(key) {
+    return new Promise(async (resolve, reject) => {
+      const data = await this.client.get(key)
       try {
-        return JSON.parse(value)
-      } catch (e) {
-        return value
+        resolve(JSON.parse(data))
+      } catch (error) {
+        resolve(data)
       }
-    },
+    })
+  }
+
+  async delete(key) {
+    await this.client.del(key)
   }
 }
 
-module.exports = redisFactory()
+module.exports = new Redis()
