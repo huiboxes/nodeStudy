@@ -1,4 +1,4 @@
-const { execSql } = require('../db/mysql')
+const { execSql, escape } = require('../db/mysql')
 const { SuccessModel, ErrorModel } = require('../model/resModel')
 
 const getCookieExpires = () => {
@@ -8,7 +8,7 @@ const getCookieExpires = () => {
 }
 
 const login = (username, password) => {
-  const sql = `select * from users where username='${username}' and password='${password}'`
+  const sql = `select * from users where username=${escape(username)} and password='${escape(password)}'`
   return execSql(sql).then((rows) => {
     return rows[0] || {}
   })
