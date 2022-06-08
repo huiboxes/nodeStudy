@@ -1,0 +1,5 @@
+GET -- /api/user/login?username=zhangsan&password=123 -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36 -- 1654616856542
+GET -- /favicon.ico -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36 -- 1654616856731
+GET -- /api/user/login?username=zhangsan&password=123 -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36 -- 1654616866494
+GET -- /api/user/login?username=zhangsan&password=123 -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36 -- 1654616866642
+GET -- /api/user/login?username=zhangsan&password=123 -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36 -- 1654616866863

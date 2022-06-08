@@ -1,4 +1,5 @@
 const querystring = require('querystring')
+const { access } = require('./src/utils/log')
 const handleBlogRouter = require('./src/router/blog')
 const handleUserRouter = require('./src/router/user')
 const redis = require('./src/db/redis')
@@ -31,6 +32,13 @@ const getPostData = (req) => {
 }
 
 const serverHandle = async (req, res) => {
+  // 记录 access log
+  access(
+    `${req.method} -- ${req.url} -- ${
+      req.headers['user-agent']
+    } -- ${Date.now()}`
+  )
+
   res.setHeader('Content-Type', 'application/json')
   // process.env.NODE_ENV
 
