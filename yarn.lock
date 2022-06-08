@@ -90,6 +90,11 @@
   "resolved" "https://registry.npmmirror.com/cluster-key-slot/-/cluster-key-slot-1.1.0.tgz"
   "version" "1.1.0"
 
+"commander@^2.20.3":
+  "integrity" "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ=="
+  "resolved" "https://registry.npmmirror.com/commander/-/commander-2.20.3.tgz"
+  "version" "2.20.3"
+
 "content-disposition@0.5.4":
   "integrity" "sha512-FveZTNuGw04cxlAiWbzi6zTAL/lhehaWbTtgluJh4/E95DqMwTmha3KZN1aAWA8cFIhHzMZUvLevkw5Rqk+tSQ=="
   "resolved" "https://registry.npmmirror.com/content-disposition/-/content-disposition-0.5.4.tgz"
@@ -132,6 +137,11 @@
     "path-key" "^3.1.0"
     "shebang-command" "^2.0.0"
     "which" "^2.0.1"
+
+"cssfilter@0.0.10":
+  "integrity" "sha512-FAaLDaplstoRsDR8XGYH51znUN0UY7nMc6Z9/fvE8EXGwvJE9hu7W2vHwx1+bd6gCYnln9nLbzxFTrcO9YQDZw=="
+  "resolved" "https://registry.npmmirror.com/cssfilter/-/cssfilter-0.0.10.tgz"
+  "version" "0.0.10"
 
 "debug@2.6.9":
   "integrity" "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
@@ -584,6 +594,14 @@
   "version" "2.0.2"
   dependencies:
     "isexe" "^2.0.0"
+
+"xss@^1.0.13":
+  "integrity" "sha512-clu7dxTm1e8Mo5fz3n/oW3UCXBfV89xZ72jM8yzo1vR/pIS0w3sgB3XV2H8Vm6zfGnHL0FzvLJPJEBhd86/z4Q=="
+  "resolved" "https://registry.npmmirror.com/xss/-/xss-1.0.13.tgz"
+  "version" "1.0.13"
+  dependencies:
+    "commander" "^2.20.3"
+    "cssfilter" "0.0.10"
 
 "yallist@4.0.0":
   "integrity" "sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A=="
