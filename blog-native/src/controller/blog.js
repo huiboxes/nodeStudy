@@ -27,6 +27,7 @@ const newBlog = (blogData = {}) => {
     insert into blogs(title, content, createtime, author)
     values ('${xss(title)}', '${xss(content)}', '${createtime}', '${author}')
   `
+  
   return execSql(sql).then((insertData) => {
     return {
       id: insertData.insertId,
