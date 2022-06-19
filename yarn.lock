@@ -90,6 +90,11 @@ cluster-key-slot@1.1.0:
   resolved "https://registry.npmmirror.com/cluster-key-slot/-/cluster-key-slot-1.1.0.tgz"
   integrity sha512-2Nii8p3RwAPiFwsnZvukotvow2rIHM+yQ6ZcBXGHdniadkYGZYiGmkHJIbZPIV9nfv7m/U1IPMVVcAhoWFeklw==
 
+commander@2.20.0:
+  version "2.20.0"
+  resolved "https://registry.npmmirror.com/commander/-/commander-2.20.0.tgz"
+  integrity sha512-7j2y+40w61zy6YC2iRNpUe/NwhNyoXrYpHMrSunaMG64nRnaf96zO/KMQR4OyN/UnE5KLyEBnKHd4aG3rskjpQ==
+
 commander@^2.20.3:
   version "2.20.3"
   resolved "https://registry.npmmirror.com/commander/-/commander-2.20.3.tgz"
@@ -182,7 +187,7 @@ etag@~1.8.1:
 
 express@^4.18.1:
   version "4.18.1"
-  resolved "https://registry.npmmirror.com/express/-/express-4.18.1.tgz#7797de8b9c72c857b9cd0e14a5eea80666267caf"
+  resolved "https://registry.npmmirror.com/express/-/express-4.18.1.tgz"
   integrity sha512-zZBcOX9TfehHQhtupq57OF8lFZ3UZi08Y97dwFCkD8p9d/d2Y3M+ykKcwaMDEL+4qyUolgBDX6AblpR3fL212Q==
   dependencies:
     accepts "~1.3.8"
@@ -309,6 +314,15 @@ isexe@^2.0.0:
   resolved "https://registry.npmmirror.com/isexe/-/isexe-2.0.0.tgz"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
+koa-generator@^1.1.17:
+  version "1.1.17"
+  resolved "https://registry.npmmirror.com/koa-generator/-/koa-generator-1.1.17.tgz#8ec726c4e1ef26f7baa6932b7133120f526e45c8"
+  integrity sha512-UNvw/WJORTUG4PHk4NUqz6y+UZkP026Ltc3rEUPXPCjPfTYFpZIHyhtoUb0n2K1G5Tf9w3Vs3/CJfV8N+PtJvA==
+  dependencies:
+    commander "2.20.0"
+    mkdirp "0.5.1"
+    sorted-object "2.0.1"
+
 media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.npmmirror.com/media-typer/-/media-typer-0.3.0.tgz"
@@ -345,6 +359,18 @@ mime@^2.5.2:
   version "2.5.2"
   resolved "https://registry.npm.taobao.org/mime/download/mime-2.5.2.tgz"
   integrity sha1-bj3GzCuVEGQ4MOXxnVy3U9pe6r4=
+
+minimist@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.npmmirror.com/minimist/-/minimist-0.0.8.tgz"
+  integrity sha512-miQKw5Hv4NS1Psg2517mV4e4dYNaO3++hjAvLOAzKqZ61rH8NS1SK+vbfBWZ5PY/Me/bEWhUwqMghEW5Fb9T7Q==
+
+mkdirp@0.5.1:
+  version "0.5.1"
+  resolved "https://registry.npmmirror.com/mkdirp/-/mkdirp-0.5.1.tgz"
+  integrity sha512-SknJC52obPfGQPnjIkXbmA6+5H15E+fR+E4iR2oQ3zzCLbd7/ONua69R/Gw7AgkTLsRG+r5fzksYwWe1AgTyWA==
+  dependencies:
+    minimist "0.0.8"
 
 ms@2.0.0:
   version "2.0.0"
@@ -527,6 +553,11 @@ side-channel@^1.0.4:
     call-bind "^1.0.0"
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
+
+sorted-object@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.npmmirror.com/sorted-object/-/sorted-object-2.0.1.tgz"
+  integrity sha512-oKAAs26HeTu3qbawzUGCkTOBv/5MRrcuJyRWwbfEnWdpXnXsj+WEM3HTvarV73tMcf9uBEZNZoNDVRL62VLxzA==
 
 sqlstring@2.3.1:
   version "2.3.1"
