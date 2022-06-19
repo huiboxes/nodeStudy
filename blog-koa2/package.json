@@ -23,6 +23,10 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "nodemon": "^1.19.1"
+    "koa-generic-session": "^2.3.0",
+    "koa-morgan": "^1.0.1",
+    "koa-redis": "^4.0.1",
+    "nodemon": "^1.19.1",
+    "redis": "^4.1.0"
   }
 }
