@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T16:31:32.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="07TgNyTixXOnlDUbnMYC" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T11:45:41.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DWUxshhALNm1-f29cS2C" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2093" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -469,40 +469,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-0" value="动画序列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-0" value="动画序列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="157" y="1530" width="150" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-1" value="动画通知" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-1" value="动画通知" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="357" y="1530" width="150" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-2" value="动画蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-2" value="动画蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="589" y="1530" width="150" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-3" value="角色蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-3" value="角色蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="821" y="1530" width="150" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-4" value="触发动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-0" target="n-3qaBcxMOcCfl6O36n_-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-4" value="触发动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-0" target="n-3qaBcxMOcCfl6O36n_-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="342" y="1637" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-5" value="调用动画蓝图中的函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-1" target="n-3qaBcxMOcCfl6O36n_-2">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-5" value="调用动画蓝图中的函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-1" target="n-3qaBcxMOcCfl6O36n_-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="558" y="1689" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-6" value="调用角色蓝图中的函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-2" target="n-3qaBcxMOcCfl6O36n_-3">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-6" value="调用角色蓝图中的函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-2" target="n-3qaBcxMOcCfl6O36n_-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="1741" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-7" value="修改角色的状态变量" style="curved=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-3" target="n-3qaBcxMOcCfl6O36n_-3">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-7" value="修改角色的状态变量" style="curved=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-3" target="n-3qaBcxMOcCfl6O36n_-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="946" y="1793" />
@@ -510,29 +510,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-29" value="Idle" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-29" value="Idle" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1778" y="1460" width="42" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-30" value="Aim" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-30" value="Aim" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1778" y="1570" width="43" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-31" value="Fire" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-31" value="Fire" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1777" y="1680" width="43" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-32" value="Reload" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-32" value="Reload" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1470" y="1799" width="63" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-33" value="Switch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-33" value="Switch" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2080" y="1799" width="62" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-34" value="瞄准按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=0.03987336742949581;exitY=1;entryX=0.06220189376834474;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-30">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-34" value="瞄准按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=0.03987336742949581;exitY=1;entryX=0.06220189376834474;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1742" y="1559" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-35" value="开火按键按下且有子弹" style="curved=1;startArrow=none;endArrow=block;exitX=-0.005301339285714286;exitY=0.6981957879095287;entryX=0.005359738372093023;entryY=0.29665340267756335;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-31">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-35" value="开火按键按下且有子弹" style="curved=1;startArrow=none;endArrow=block;exitX=-0.005301339285714286;exitY=0.6981957879095287;entryX=0.005359738372093023;entryY=0.29665340267756335;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1639" y="1559" />
@@ -540,7 +540,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-36" value="换弹按键按下或子弹用尽" style="curved=1;startArrow=none;endArrow=block;exitX=-0.005301339285714286;exitY=0.5541318087558234;entryX=-0.0008060515873015873;entryY=0.20770548041464315;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-32">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-36" value="换弹按键按下或子弹用尽" style="curved=1;startArrow=none;endArrow=block;exitX=-0.005301339285714286;exitY=0.5541318087558234;entryX=-0.0008060515873015873;entryY=0.20770548041464315;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-32" edge="1">
           <mxGeometry x="0.6101" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1690" y="1490" />
@@ -550,7 +550,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-37" value="切换武器按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=0.9967447916666666;exitY=0.63944903080007;entryX=0.0028351814516129033;entryY=0.12475152821545354;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-33">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-37" value="切换武器按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=0.9967447916666666;exitY=0.63944903080007;entryX=0.0028351814516129033;entryY=0.12475152821545354;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-29" target="n-3qaBcxMOcCfl6O36n_-33" edge="1">
           <mxGeometry x="0.1767" y="-14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2010" y="1570" />
@@ -558,19 +558,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-38" value="瞄准按键松开" style="curved=1;startArrow=none;endArrow=block;exitX=0.9526963620456087;exitY=0;entryX=0.9515700849514566;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-29">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-38" value="瞄准按键松开" style="curved=1;startArrow=none;endArrow=block;exitX=0.9526963620456087;exitY=0;entryX=0.9515700849514566;entryY=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1858" y="1559" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-39" value="开火按键按下且有子弹" style="curved=1;startArrow=none;endArrow=block;exitX=0.5074491279069767;exitY=1;entryX=0.5074491279069767;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-31">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-39" value="开火按键按下且有子弹" style="curved=1;startArrow=none;endArrow=block;exitX=0.5074491279069767;exitY=1;entryX=0.5074491279069767;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-40" value="换弹按键按下或子弹用尽" style="curved=1;startArrow=none;endArrow=block;exitX=0.0041787790697674415;exitY=0.5683155363192218;entryX=0.2144398212359379;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-32">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-40" value="换弹按键按下或子弹用尽" style="curved=1;startArrow=none;endArrow=block;exitX=0.0041787790697674415;exitY=0.5683155363192218;entryX=0.2144398212359379;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-32" edge="1">
           <mxGeometry x="0.04" y="12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1520" y="1710" />
@@ -578,7 +578,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-41" value="切换武器按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=1.010719476744186;exitY=0.6048697866509447;entryX=0.28268624725963;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-33">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-41" value="切换武器按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=1.010719476744186;exitY=0.6048697866509447;entryX=0.28268624725963;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-30" target="n-3qaBcxMOcCfl6O36n_-33" edge="1">
           <mxGeometry x="-0.1035" y="-7" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2030" y="1710" />
@@ -586,7 +586,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-42" value="开火按键松开" style="curved=1;startArrow=none;endArrow=block;exitX=1.0095385174418605;exitY=0.2737968275664763;entryX=0.9967447916666666;entryY=0.7204734014654227;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-31" target="n-3qaBcxMOcCfl6O36n_-29">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-42" value="开火按键松开" style="curved=1;startArrow=none;endArrow=block;exitX=1.0095385174418605;exitY=0.2737968275664763;entryX=0.9967447916666666;entryY=0.7204734014654227;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-31" target="n-3qaBcxMOcCfl6O36n_-29" edge="1">
           <mxGeometry x="0.009" y="14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1944" y="1662" />
@@ -595,17 +595,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-43" value="换弹按键按下或子弹用尽" style="curved=1;startArrow=none;endArrow=block;exitX=0.005359738372093023;exitY=0.588188975158166;entryX=0.7855601787640626;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-31" target="n-3qaBcxMOcCfl6O36n_-32">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-43" value="换弹按键按下或子弹用尽" style="curved=1;startArrow=none;endArrow=block;exitX=0.005359738372093023;exitY=0.588188975158166;entryX=0.7855601787640626;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-31" target="n-3qaBcxMOcCfl6O36n_-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-44" value="切换武器按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=1.0095385174418605;exitY=0.5824627116463892;entryX=0.7299145591919811;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-31" target="n-3qaBcxMOcCfl6O36n_-33">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-44" value="切换武器按键按下" style="curved=1;startArrow=none;endArrow=block;exitX=1.0095385174418605;exitY=0.5824627116463892;entryX=0.7299145591919811;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-31" target="n-3qaBcxMOcCfl6O36n_-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-45" value="换弹动画结束" style="curved=1;startArrow=none;endArrow=block;exitX=1.0008060515873016;exitY=0.20770548041464315;entryX=-0.005301339285714286;entryY=0.6217396322059394;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-32" target="n-3qaBcxMOcCfl6O36n_-29">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-45" value="换弹动画结束" style="curved=1;startArrow=none;endArrow=block;exitX=1.0008060515873016;exitY=0.20770548041464315;entryX=-0.005301339285714286;entryY=0.6217396322059394;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-32" target="n-3qaBcxMOcCfl6O36n_-29" edge="1">
           <mxGeometry x="-0.2671" y="-8" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1520" y="1730" />
@@ -614,7 +614,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-46" value="切换武器动画结束" style="curved=1;startArrow=none;endArrow=block;exitX=1.009765625;exitY=0.12475152821545354;entryX=0.9967447916666666;entryY=0.566325171819252;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-33" target="n-3qaBcxMOcCfl6O36n_-29">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-46" value="切换武器动画结束" style="curved=1;startArrow=none;endArrow=block;exitX=1.009765625;exitY=0.12475152821545354;entryX=0.9967447916666666;entryY=0.566325171819252;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-33" target="n-3qaBcxMOcCfl6O36n_-29" edge="1">
           <mxGeometry x="-0.4886" y="3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2150" y="1710" />
@@ -623,33 +623,33 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-86" value="移动动画" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-86" value="移动动画" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2480" y="1390" width="150" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-87" value="动画通知" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-87" value="动画通知" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2711" y="1390" width="150" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-88" value="角色蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-88" value="角色蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2911" y="1390" width="150" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-89" value="声音系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-89" value="声音系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3111" y="1390" width="150" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-90" value="触发脚步声的动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-86" target="n-3qaBcxMOcCfl6O36n_-87">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-90" value="触发脚步声的动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-86" target="n-3qaBcxMOcCfl6O36n_-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2681" y="1497" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-91" value="调用脚步声函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-87" target="n-3qaBcxMOcCfl6O36n_-88">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-91" value="调用脚步声函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-87" target="n-3qaBcxMOcCfl6O36n_-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2896" y="1549" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-92" value="选择脚步声的音效" style="curved=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-88" target="n-3qaBcxMOcCfl6O36n_-88">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-92" value="选择脚步声的音效" style="curved=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-88" target="n-3qaBcxMOcCfl6O36n_-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3036" y="1601" />
@@ -657,43 +657,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-93" value="播放脚步声的音效" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-88" target="n-3qaBcxMOcCfl6O36n_-89">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-93" value="播放脚步声的音效" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-88" target="n-3qaBcxMOcCfl6O36n_-89" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3096" y="1683" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-95" value="攻击者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-95" value="攻击者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="227" y="2210" width="150" height="718" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-96" value="动画通知" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-96" value="动画通知" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="474" y="2210" width="150" height="718" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-97" value="攻击者蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-97" value="攻击者蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="674" y="2210" width="150" height="718" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-98" value="受击者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-98" value="受击者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="874" y="2210" width="150" height="718" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-99" value="受击者蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-99" value="受击者蓝图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1074" y="2210" width="150" height="718" as="geometry" />
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-100" value="触发打击效果的动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-95" target="n-3qaBcxMOcCfl6O36n_-96">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-100" value="触发打击效果的动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-95" target="n-3qaBcxMOcCfl6O36n_-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="436" y="2317" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-101" value="调用打击函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-96" target="n-3qaBcxMOcCfl6O36n_-97">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-101" value="调用打击函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-96" target="n-3qaBcxMOcCfl6O36n_-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="659" y="2369" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-102" value="生成打击效果" style="curved=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-97" target="n-3qaBcxMOcCfl6O36n_-97">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-102" value="生成打击效果" style="curved=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-97" target="n-3qaBcxMOcCfl6O36n_-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="799" y="2421" />
@@ -701,21 +701,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-103" value="检测攻击目标" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-97" target="n-3qaBcxMOcCfl6O36n_-98">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-103" value="检测攻击目标" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-97" target="n-3qaBcxMOcCfl6O36n_-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="859" y="2503" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-104" value="调用受击函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-98" target="n-3qaBcxMOcCfl6O36n_-99">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-104" value="调用受击函数" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-98" target="n-3qaBcxMOcCfl6O36n_-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1059" y="2555" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-105" value="生成受击效果" style="curved=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-99" target="n-3qaBcxMOcCfl6O36n_-99">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-105" value="生成受击效果" style="curved=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-99" target="n-3qaBcxMOcCfl6O36n_-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1199" y="2607" />
@@ -723,7 +723,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-106" value="计算受击反馈" style="curved=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-99" target="n-3qaBcxMOcCfl6O36n_-99">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-106" value="计算受击反馈" style="curved=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-99" target="n-3qaBcxMOcCfl6O36n_-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1199" y="2689" />
@@ -731,18 +731,124 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-107" value="触发受击或死亡的动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-99" target="n-3qaBcxMOcCfl6O36n_-96">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-107" value="触发受击或死亡的动画通知" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-99" target="n-3qaBcxMOcCfl6O36n_-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="859" y="2771" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-3qaBcxMOcCfl6O36n_-108" value="播放受击或死亡的动画" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-96" target="n-3qaBcxMOcCfl6O36n_-98">
+        <mxCell id="n-3qaBcxMOcCfl6O36n_-108" value="播放受击或死亡的动画" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n-3qaBcxMOcCfl6O36n_-96" target="n-3qaBcxMOcCfl6O36n_-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="759" y="2823" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-12" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1833" y="2160" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-13" value="巡逻" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1816" y="2204" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-14" value="搜索" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1815" y="2304" width="49" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-15" value="攻击" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1815" y="2410" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-16" value="追踪" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1570" y="2410" width="49" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-17" value="躲避" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1816" y="2520" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-18" value="警戒" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2080" y="2520" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-19" value="" style="curved=1;startArrow=none;;exitX=0.5178571428571429;exitY=1;entryX=0.5052083333333334;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-12" target="uIedUysTmtte3vUXIkiR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-20" value="视线内发现玩家或听到噪音" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.4897959183673469;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-13" target="uIedUysTmtte3vUXIkiR-14">
+          <mxGeometry x="0.0044" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-21" value="确认玩家位置" style="curved=1;startArrow=none;;exitX=0.4897959183673469;exitY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-14" target="uIedUysTmtte3vUXIkiR-15">
+          <mxGeometry x="-0.0097" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-22" value="玩家逃脱视线且无噪音" style="curved=1;startArrow=none;;exitX=1.0052083333333333;exitY=0.37289181406828387;entryX=1;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-15" target="uIedUysTmtte3vUXIkiR-13">
+          <mxGeometry x="-0.4595" y="25" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2070" y="2310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-23" value="玩家逃离攻击范围" style="curved=1;startArrow=none;;exitX=0.005208333333333333;exitY=0.587862093477875;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-15" target="uIedUysTmtte3vUXIkiR-16">
+          <mxGeometry x="-0.1307" y="25" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1710" y="2360" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-24" value="玩家进入攻击范围" style="curved=1;startArrow=none;;exitX=1;exitY=0.5;entryX=0.005208333333333333;entryY=0.637310448258623;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-16" target="uIedUysTmtte3vUXIkiR-15">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-25" value="丢失玩家踪迹且无噪音" style="curved=1;startArrow=none;;exitX=0.5;exitY=0;entryX=0.005208333333333333;entryY=0.7213268869191514;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-16" target="uIedUysTmtte3vUXIkiR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1770" y="2240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-26" value="敌方受伤或玩家使用强力武器" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-15" target="uIedUysTmtte3vUXIkiR-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1839" y="2479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-27" value="敌方恢复或玩家更换武器" style="curved=1;startArrow=none;;exitX=1.0052083333333333;exitY=0.22870939420544253;entryX=1.0052083333333333;entryY=0.6845326963272619;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-17" target="uIedUysTmtte3vUXIkiR-15">
+          <mxGeometry x="-0.5458" y="19" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2040" y="2530" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-28" value="敌方伤势严重或玩家武器威力过大" style="curved=1;startArrow=none;;exitX=1;exitY=0.5;entryX=0.005208333333333333;entryY=0.3426279602750192;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-17" target="uIedUysTmtte3vUXIkiR-18">
+          <mxGeometry x="0.0467" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1950" y="2590" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-29" value="玩家进入攻击范围" style="curved=1;startArrow=none;;exitX=0.6943264563106789;exitY=0;entryX=1.0052083333333333;entryY=0.6130729119019303;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-18" target="uIedUysTmtte3vUXIkiR-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2050" y="2470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uIedUysTmtte3vUXIkiR-30" value="玩家逃离视线且无噪音" style="curved=1;startArrow=none;;exitX=1.0052083333333333;exitY=0.17542016806722713;entryX=1.0052083333333333;entryY=0.5861444103707832;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uIedUysTmtte3vUXIkiR-18" target="uIedUysTmtte3vUXIkiR-13">
+          <mxGeometry x="-0.347" y="9" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2130" y="2410" />
+              <mxPoint x="2070" y="2300" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
